@@ -1,4 +1,4 @@
-# The Open Com Foundation
+![the-open-com-foundation-high-resolution-logo-white-transparent](https://github.com/user-attachments/assets/306fc24e-8018-4b91-a278-f6799fc415c9)
 
 Welcome to The Open Com Foundation's GitHub organization! We are dedicated to developing and promoting open source communication software.
 
