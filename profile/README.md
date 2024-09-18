@@ -24,7 +24,7 @@ The Open Com Foundation aims to enhance global communication through the power o
 
 We welcome contributions from developers of all skill levels. Here's how you can get involved:
 
-1. Check out our [List-to-projects](https://github.com/orgs/The-Open-Com-Foundation/repositories)
+1. Check out our [List-of-projects](https://github.com/orgs/The-Open-Com-Foundation/repositories)
 2. Fork a repository and submit a pull request
 
 ## License
